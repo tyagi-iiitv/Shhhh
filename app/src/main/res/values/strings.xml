@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shhhh</string>
+    <string name="action_settings">Under Construction</string>
+    <string name="silent_on">Turn Silent Mode ON</string>
+    <string name="silent_off">Turn Silent Mode OFF</string>
+</resources>
